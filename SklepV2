@@ -55,7 +55,7 @@
     <h1>Moje Projekty</h1>
     <div class="container">
         <div class="projekt">
-            <img src="motylek.jpg" alt="Motyl czarny">
+            <img src="motylek.JPG" alt="Motyl czarny">
             <a href="https://www.vinted.pl/items/6002040306-motyl-czarny" target="_blank">Kup motyla na Vinted</a>
         </div>
 
